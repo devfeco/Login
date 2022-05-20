@@ -32,7 +32,7 @@ const Login = () =>{
         </ScrollView>
       </KeyboardAvoidingView>
       <View style={styles.footer}>
-          <Text style={styles.footerTitle}>Don't have an account? </Text>
+          <Text style={styles.footerTitle}>Got an Account </Text>
           <TouchableOpacity>
             <Text style={styles.signUpButton}>Sign Up</Text>
           </TouchableOpacity>
